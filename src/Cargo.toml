@@ -1,0 +1,9 @@
+[package]
+name = "lut_gen"
+description = "Simple LUT Generator"
+version = "0.1.0"
+license = "MIT"
+
+[[bin]]
+name = "main"
+path = "main.rs"
